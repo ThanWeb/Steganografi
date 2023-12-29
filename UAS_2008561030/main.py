@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 
 from tkinter import filedialog
-from PIL import Image, ImageFilter
+from PIL import Image
 from datetime import datetime
 
 root = tk.Tk()
